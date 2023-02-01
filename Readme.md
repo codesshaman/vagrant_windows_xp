@@ -12,11 +12,11 @@
 
 Клонировать данный репозиторий:
 
-``git clone https://github.com/codesshaman/vagrant_python_debian.git``
+``git clone https://github.com/codesshaman/vagrant_windows_xp.git``
 
 ### Step 2
 
-Скачать бокс bento/debian-11.5 для virtualbox с [vagrantup](https://app.vagrantup.com/denirow/boxes/winxp "vagrantup").
+Скачать бокс bento/debian-11.5 для virtualbox с [vagrantup](https://app.vagrantup.com/voidead/boxes/win-xp-sp1 "vagrantup").
 
 a2a5f4df-eba7-4c0c-88e4-7ff6d02d5ada
 
